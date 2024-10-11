@@ -396,4 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/exercise.wwwapi/Migrations/20241011072145_First.cs
+/exercise.wwwapi/Migrations/
