@@ -1,3 +1,6 @@
+FINISHED 
+
+
 # C# Cloud AWS - Day One
 
 ## Learning Objectives
