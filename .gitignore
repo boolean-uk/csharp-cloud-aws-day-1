@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+**/dist
+**/out
+/v1.zip
+/exercise.wwwapi/appsettings.development.json
+/exercise.wwwapi/_example.appsettings.json
